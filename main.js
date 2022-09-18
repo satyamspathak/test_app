@@ -808,7 +808,7 @@ var DISHES = [
     {
         id: '1',
         name: 'Zucchipakoda',
-        image: '/assets/images/zucchipakoda.png',
+        image: 'assets/images/zucchipakoda.png',
         category: 'appetizer',
         featured: false,
         label: '',
@@ -850,7 +850,7 @@ var DISHES = [
     {
         id: '2',
         name: 'Vadonut',
-        image: '/assets/images/vadonut.png',
+        image: 'assets/images/vadonut.png',
         category: 'appetizer',
         featured: false,
         label: 'New',
@@ -892,7 +892,7 @@ var DISHES = [
     {
         id: '3',
         name: 'ElaiCheese Cake',
-        image: '/assets/images/elaicheesecake.png',
+        image: 'assets/images/elaicheesecake.png',
         category: 'dessert',
         featured: false,
         label: '',
@@ -950,7 +950,7 @@ var LEADERS = [
     {
         id: '0',
         name: 'Peter Pan',
-        image: '/assets/images/alberto.png',
+        image: 'assets/images/alberto.png',
         designation: 'Chief Epicurious Officer',
         abbr: 'CEO',
         featured: false,
@@ -1006,7 +1006,7 @@ var PROMOTIONS = [
     {
         id: '0',
         name: 'Weekend Grand Buffet',
-        image: '/assets/images/buffet.png',
+        image: 'assets/images/buffet.png',
         label: 'New',
         price: '19.99',
         featured: true,
